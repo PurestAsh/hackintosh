@@ -95,10 +95,12 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 `backup\INT3443.txt` I2C1触摸板补丁
 
  ###  确保BIOS名称一样(ensure BIOS name)
+ 
+ 如果Github图片不显示,请自备梯子,或者下载到本地
 
 1. 键盘
 
-![](img/keyboard-bios-name.png)
+![keyobard](img/keyboard-bios-name.png)
 
 2. 触控板
 
