@@ -2,7 +2,7 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
 请优先尝试[release版](https://github.com/threewater2/hackintosh/releases)
 
-[安装教程](https://github.com/threewater2/hackintosh/install-guide.md)
+[安装教程](./install-guide.md)
 
 Version: 1.0
 
