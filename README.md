@@ -1,5 +1,28 @@
 Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
+## 哪些可用(works)?
+
+| 名称     | 是否可用 |
+| -------- | -------- |
+| 键盘     | OK       |
+| 声音     | OK       |
+| 麦克风   | OK       |
+| 键盘背光 | OK       |
+| 触控板   | OK       |
+| USB接口  | OK       |
+| 电量显示 | OK       |
+| WIFI     | OK       |
+| 有线网卡 | OK       |
+
+
+
+## 哪些不可用(not works)?
+
+| 名称    | 是否可用 |
+| ------- | -------- |
+| 蓝牙    | NO       |
+| GTX960M | NO       |
+
 
 
 ## 确认的你的配置(verify config)
@@ -95,7 +118,7 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 `backup\INT3443.txt` I2C1触摸板补丁
 
  ###  确保BIOS名称一样(ensure BIOS name)
- 
+
  如果Github图片不显示,请自备梯子,或者下载到本地
 
 1. 键盘
