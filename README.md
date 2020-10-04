@@ -14,8 +14,6 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 | WIFI     | OK       |
 | 有线网卡 | OK       |
 
-
-
 ## 哪些不可用(not works)?
 
 | 名称    | 是否可用 |
