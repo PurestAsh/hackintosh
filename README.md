@@ -1,5 +1,9 @@
 Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
+请优先尝试[release版](https://github.com/threewater2/hackintosh/releases)
+
+Version: 1.0
+
 ## 哪些可用(works)?
 
 | 名称     | 是否可用 |
@@ -25,6 +29,8 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
 ## 确认的你的配置(verify config)
 
+以下关键配置不同都可能导致某些功能无法使用.
+
 | 类型     | 名称              |
 | -------- | ----------------- |
 | 主板     | GL552VW           |
@@ -39,6 +45,8 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
 ## BIOS设置
 
+任何一项BIOS设置的不同都会导致为DSDT打的补丁无法使用,严重时可能导致无法启动.
+
 | 名称                             | 配置       |
 | -------------------------------- | ---------- |
 | Internal Pointing Device         | Enabled    |
@@ -50,7 +58,7 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 | USB Interface Security           | All/Unlock |
 | Secure Boot                      | Disabled   |
 | Secure Boot Control              | Disabled   |
-| Launch CSM                       | Enabled    |
+| Launch CSM                       | Disabled   |
 | Lanuch PxE OpROM plicy           | Enabled    |
 | Legacy USB Support               | Enabled    |
 | USB Mass Storage Driver Support  | Enabled    |
@@ -82,11 +90,9 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
 [OpenCore权威教程(en)](https://dortania.github.io/OpenCore-Install-Guide/)
 
-[编译自己的DSDT和打补丁](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
+[编译自己的DSDT和打补丁(en)](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
 
-[驱动AR9565(x)](https://www.longzc.cn/index.php/archives/168)
-
-
+[驱动AR9565(x)](https://www.longzc.cn/index.php/archives/168)  安装成功后走这一步.
 
 ## 部分kext说明
 
@@ -117,7 +123,9 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
  ###  确保BIOS名称一样(ensure BIOS name)
 
- 如果Github图片不显示,请自备梯子,或者下载到本地
+如果BIOS名称不一样也可能导致某些功能无法使用.
+
+ 如果Github图片不显示或者链接打不开,请自备梯子,或者下载到本地
 
 1. 键盘
 
