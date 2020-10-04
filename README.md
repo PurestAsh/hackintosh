@@ -98,16 +98,16 @@ Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
 
 1. 键盘
 
-![](img\keyboard-bios-name.png)
+![](img/keyboard-bios-name.png)
 
 2. 触控板
 
-![touchpad-bios-name](img\touchpad-bios-name.png)
+![touchpad-bios-name](img/touchpad-bios-name.png)
 
 3. 无线网卡
 
-![wifi-bios-name](img\wifi-bios-name.png)
+![wifi-bios-name](img/wifi-bios-name.png)
 
 4. 声卡
 
-![audio-name](img\audio-name.png)
+![audio-name](img/audio-name.png)
