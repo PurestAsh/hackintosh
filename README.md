@@ -1,12 +1,11 @@
-Mac OS 10.15.6 hackintosh(黑苹果) OpenCore 0.6.0(DEBUG版) 完美驱动备份
+Mac OS (10.15.6----11.0.1)  hackintosh(黑苹果) OpenCore 驱动备份
 
-支持Big Sur(需升级Opencore 到0.6.2)
 
-请优先尝试[release版](https://github.com/threewater2/hackintosh/releases)
+[这里下载](https://github.com/threewater2/hackintosh/releases)
 
-[安装教程](./install-guide.md)
+[simple-install-guide](./install-guide.md)
 
-Version: 1.0
+Version: 2.0
 
 ## 哪些可用(works)?
 
@@ -19,7 +18,6 @@ Version: 1.0
 | 触控板   | OK       |
 | USB接口  | OK       |
 | 电量显示 | OK       |
-| WIFI     | OK       |
 | 有线网卡 | OK       |
 
 ## 哪些不可用(not works)?
