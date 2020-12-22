@@ -114,6 +114,7 @@ Version: 2.0
 
 ## 其它(Other)
 
+请先确保解锁了CFG
 
  把`CFGunlock.efi` 放入 `EFI\OC\Tools\` 下 [解锁CFG(unlock CFG)](https://www.insanelymac.com/forum/topic/344035-cfglock-unlock-msr-0xe2/)
 
